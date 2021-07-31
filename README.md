@@ -8,6 +8,7 @@
 
 ## ✨目录
 - [文本挖掘](https://github.com/junchaoIU/NLP_Learning_Notes/blob/main/%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98.md)
+- [KBQA](https://github.com/junchaoIU/NLP_Learning_Notes/blob/main/KBQA.md)
 
 
 # 🌸关于作者
