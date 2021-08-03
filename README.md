@@ -7,6 +7,7 @@
 
 
 ## ✨目录
+- [科研论文方法](https://github.com/junchaoIU/NLP_Learning_Notes/blob/main/%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87%E6%96%B9%E6%B3%95.md)
 - [文本挖掘](https://github.com/junchaoIU/NLP_Learning_Notes/blob/main/%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98.md)
 - [KBQA](https://github.com/junchaoIU/NLP_Learning_Notes/blob/main/KBQA.md)
 
